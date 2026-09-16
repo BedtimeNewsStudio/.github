@@ -1,4 +1,4 @@
-# 睡前消息工作室（非官方）仓库
+# 睡前消息工作室（非官方）
 
 ## [BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) — 全期校对文稿
 睡前消息 / 参考信息 / 产经破壁机 / 高见 / 讲点黑话
