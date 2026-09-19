@@ -1,3 +1,5 @@
+# 立即体验：[bedtime.blog](https://bedtime.blog)
+
 ## [BedtimeNews-Transcripts](https://github.com/BedtimeNewsStudio/BedtimeNews-Transcripts) — 全期校对文稿
 睡前消息 / 参考信息 / 产经破壁机 / 高见 / 讲点黑话
 
