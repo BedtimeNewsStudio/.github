@@ -1,6 +1,6 @@
 # 立即体验：[bedtime.blog](https://bedtime.blog)
 
-[![睡前消息知识库演示视频（YouTube）](https://img.youtube.com/vi/9_SlMaqBvcU/maxresdefault.jpg)](https://www.youtube.com/watch?v=9_SlMaqBvcU)
+[![睡前消息知识库演示视频（YouTube）](https://img.youtube.com/vi/wOJ8RC7if5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=wOJ8RC7if5U)
 
 ## [BedtimeNews-Agent](https://github.com/BedtimeNewsStudio/BedtimeNews-Agent) — 睡前消息智能体
 基于文稿的问答 AI Agent
